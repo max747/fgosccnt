@@ -1,3 +1,11 @@
 *.xml
 item/
 *.csv
+
+# for linux (venv)
+bin/
+lib/
+lib64
+pyvenv.cfg
+share/
+__pycache__/
